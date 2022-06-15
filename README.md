@@ -1,6 +1,6 @@
 # Demo Shows
 
-Many interesting dApps can be developed based on Dante protocol stack, and no matter which chain these dApps are deployed on, they can become dApps shared by the whole web3 world with the help of Dante.
+Many interesting dApps can be developed based on Dante protocol stack. No matter which chain dApps are deployed on, they can be shared to the whole web3 ecosystems with the help of Dante.
 
 ## Index
 * [Application Demo](#application-demo)
