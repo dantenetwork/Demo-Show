@@ -36,7 +36,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 ### Algorithms Demo
 
-To let users more easily understand how the underlyting Dante protocol stack workd, we will provide some demos that visually demonstrate how the underlying algorithm works.
+To let users more easily understand how the underlying mechanisms of Dante protocol stack work, we will provide some demos that visually demonstrate how the underlying algorithm works.
 
 * **Routers evaluation algorithm demo**
     * One of the key technologies.
