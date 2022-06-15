@@ -5,7 +5,7 @@ Many interesting dApps can be developed based on Dante protocol stack. No matter
 ## Index
 * [Application Demo](#application-demo)
 * [Algorithm Demo](#algorithms-demo)
-* [Highlights](#highlights-of-dante-protocol-stack)
+* [Highlights of Dante Protocol Stack](#highlights-of-dante-protocol-stack)
 
 ### Application Demo
 We provide some demo videos to show how dApps can be improved with the help of Dante protocol stack.
