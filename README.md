@@ -73,3 +73,4 @@ https://user-images.githubusercontent.com/83746881/173185179-5949a548-e44b-4e7c-
 ## More Details
 * [Technoloy White Paper](https://github.com/dantenetwork/Pitch-Deck/blob/main/Dante%20Network%EF%BC%9AThe%20_Internet%20protocol%20stack_%20of%20Web3.pdf)
 * [Pitch Deck](https://github.com/dantenetwork/Pitch-Deck/blob/main/Dante%20Pitch%20Deck.pdf)
+* [Website](https://www.dantechain.com/)
