@@ -6,6 +6,7 @@ Many interesting dApps can be developed based on Dante protocol stack. No matter
 * **[Application Demo](#application-demo)**
 * **[Algorithm Demo](#algorithms-demo)**
 * **[Highlights of Dante Protocol Stack](#highlights-of-dante-protocol-stack)**
+* **[More Details](#more-details)**
 
 ### Application Demo
 
@@ -68,3 +69,7 @@ https://user-images.githubusercontent.com/83746881/173185179-5949a548-e44b-4e7c-
 ## Highlights of Dante protocol stack
 * **Barrier-free multi-chain ecosystem Collaboration: Provision of a general data verification protocol to execute token circulation, comprehensive information sensing, and smart contract interoperability among multiple chains, like the “Block-Internet”**.
 * **A dynamic balance between security, scalability, and decentralization: Provide an SQoS mechanism along with a tunable consensus verification architecture that can be adapted to various scenarios, just like the QoS in TCP/IP protocol cluster**.
+
+## More Details
+* [Technoloy White Paper](https://github.com/dantenetwork/Pitch-Deck/blob/main/Dante%20Network%EF%BC%9AThe%20_Internet%20protocol%20stack_%20of%20Web3.pdf)
+* [Pitch Deck](https://github.com/dantenetwork/Pitch-Deck/blob/main/Dante%20Pitch%20Deck.pdf)
