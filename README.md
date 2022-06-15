@@ -7,7 +7,7 @@ Many interesting dApps can be developed based on Dante protocol stack. No matter
 * **[Algorithm Demo](#algorithms-demo)**
 * **[Highlights of Dante Protocol Stack](#highlights-of-dante-protocol-stack)**
 
-### **Application Demo**
+### Application Demo
 
 We provide some demo videos to show how dApps can be improved with the help of Dante protocol stack.
 
@@ -33,7 +33,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
     * [Video Show](#extend-storage-on-filecoin-to-be-accessed-from-other-chains)
 
 
-### **Algorithms Demo
+### Algorithms Demo
 
 To let users more easily understand how the underlyting Dante protocol stack workd, we will provide some demos that visually demonstrate how the underlying algorithm works.
 
