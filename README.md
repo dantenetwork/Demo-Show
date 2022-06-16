@@ -25,7 +25,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
     * [Try it manually](https://demo-swap-theta.vercel.app/)
 * **Cross-chain privacy communication**
     * This is a very special demo. We know that Dante protocol stack provides `SQoS` mechanisms to scheduling security and scalability in various scenarios. But `Privacy` is a particularly special `SQoS` item, which is not for the scheduling but makes users in web3 world be able to communicate with each other anonymously and confidentiality between different chains. For example, someone can hold an anonymous poll on any of the chains, or an anonymous secret auction. With the help of this technology, every user can join no matter which chain they are familiar with.
-    * [Try it manually](https://github.com/dantenetwork/Demo-Cross-chain-privacy-communication/tree/main/Anonymous)
+    * [Try it manually](https://github.com/dantenetwork/Privacy-Cross-Chain-Demo/tree/main/Anonymous)
     * [Video Show](#cross-chain-privacy-communication)
 * **Extend storage on Arweave to be accessed from other chains**
     * This demo shows the storage services can be extended to the whole web3 world. This is example to share special resources between different chains with the help of Dante protocol stack.
