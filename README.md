@@ -56,7 +56,7 @@ To let users more easily understand how the underlying mechanisms of Dante proto
 
 
 ### Cross-chain SWAP
-[![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/NFT%20on%20Flow%20extends%20to%20Opensea.mp4)
+[![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/cross%20chain%20swap.jpg)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/NFT%20on%20Flow%20extends%20to%20Opensea.mp4)
 
 ### Cross-chain privacy communication
 [![Cross-chain privacy communication](https://github.com/dantenetwork/Demo-Show/blob/main/image/Cross-chain%20privacy%20communication.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Anonymous%20Demo.mp4)
