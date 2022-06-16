@@ -23,6 +23,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
 * **Cross-Chain SWAP based on Dante protocol stack**
     * This demo is about a cross-chain SWAP based on Dante protocol stack. You can exchange `DANT` on BNB with `DANT` on Rinkeby(Ethereum Testnet)
     * [Try it manually](https://demo-swap-theta.vercel.app/)
+    * [Video Show](#cross-chain-swap)
 * **Cross-chain privacy communication**
     * This is a very special demo. We know that Dante protocol stack provides `SQoS` mechanisms to scheduling security and scalability in various scenarios. But `Privacy` is a particularly special `SQoS` item, which is not for the scheduling but makes users in web3 world be able to communicate with each other anonymously and confidentiality between different chains. For example, someone can hold an anonymous poll on any of the chains, or an anonymous secret auction. With the help of this technology, every user can join no matter which chain they are familiar with.
     * [Try it manually](https://github.com/dantenetwork/Privacy-Cross-Chain-Demo/tree/main/Anonymous)
@@ -51,8 +52,11 @@ To let users more easily understand how the underlying mechanisms of Dante proto
 
 
 ### NFT published on Flow, and accessed from Ethereum(Opensea)
-[![NFT published on Flow, and accessed from Ethereum(Opensea)](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/NFT%20on%20Flow%20extends%20to%20Opensea.mp4)
+[![NFT published on Flow, and accessed from Ethereum(Opensea)](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Dante%20Swap.mp4)
 
+
+### Cross-chain SWAP
+[![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/NFT%20on%20Flow%20extends%20to%20Opensea.mp4)
 
 ### Cross-chain privacy communication
 [![Cross-chain privacy communication](https://github.com/dantenetwork/Demo-Show/blob/main/image/Cross-chain%20privacy%20communication.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Anonymous%20Demo.mp4)
