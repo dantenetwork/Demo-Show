@@ -14,7 +14,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 * **Smart contracts invocations between EVM chains and WASM chains**
     * This demo shows general message communication and contracts invocation between multi-chains.
-    * [Try it manually](https://github.com/dantenetwork/cross-chain-demo/tree/high-level-show)
+    * [Try it manually](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
     * [Video Show](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
 * **NFT published on Flow, and accessed from Ethereum(Opensea)**
     * This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
