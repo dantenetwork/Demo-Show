@@ -14,9 +14,10 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 * **Smart contracts invocations between EVM chains and WASM chains**
     * This demo shows general message communication and contracts invocation between multi-chains.
-    * [Try it manually One](https://github.com/xiyu1984/hackathon-2022-summer/tree/main/teams/05-Dante%20Network/docs/interoperation-demo)
-    * [Try it manually Two](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
-    * [Video Show](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
+    * [Try it manually case one](https://github.com/xiyu1984/hackathon-2022-summer/tree/main/teams/05-Dante%20Network/docs/interoperation-demo)
+    * [Try it manually case two](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
+    * [Video Show case one](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Prototype_Multichain_SmartContract_invocation%20.mp4)
+    * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
 * **NFT published on Flow, and accessed from Ethereum(Opensea)**
     * This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
     * [Try it manually](https://github.com/dantenetwork/cadence-contracts)
@@ -40,7 +41,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 To let users more easily understand how the underlying mechanisms of Dante protocol stack work, we will provide some demos that visually demonstrate how the underlying algorithm works.
 
-* The video show of on-chain algorithm prototypes are [Video Show](https://www.youtube.com/watch?v=N5Kjo1xW_X0).
+* The video show of on-chain algorithm prototypes are [Video Show Link One](https://www.youtube.com/watch?v=N5Kjo1xW_X0), [Video Show Link Two](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Algorithm%20prototypes_Selection_Verification_Evaluation.mp4).
 * **Router selection algorithm demo**
     * One of the key technologies.
     * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#router-selection)
