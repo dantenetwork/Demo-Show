@@ -44,7 +44,9 @@ To let users more easily understand how the underlying mechanisms of Dante proto
     * [Try it manually](https://github.com/dantenetwork/Routers-Evaluation-Demo)
 * **Router selection algorithm demo**
     * One of the key technologies.
-    * [Try it manually](https://github.com/dantenetwork/Routers-Selection-Demo)
+    * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#router-selection)
+* **Message verification algorithm on-chain prototype**
+   * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#message-verification)
 
 ## Demo Videos
 ### Smart contracts invocations between EVM chains and WASM chains
