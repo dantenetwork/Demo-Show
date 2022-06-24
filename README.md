@@ -14,7 +14,8 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 * **Smart contracts invocations between EVM chains and WASM chains**
     * This demo shows general message communication and contracts invocation between multi-chains.
-    * [Try it manually](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
+    * [Try it manually One](https://github.com/xiyu1984/hackathon-2022-summer/tree/main/teams/05-Dante%20Network/docs/interoperation-demo)
+    * [Try it manually Two](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
     * [Video Show](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
 * **NFT published on Flow, and accessed from Ethereum(Opensea)**
     * This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
@@ -39,14 +40,15 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 To let users more easily understand how the underlying mechanisms of Dante protocol stack work, we will provide some demos that visually demonstrate how the underlying algorithm works.
 
-* **Routers evaluation algorithm demo**
-    * One of the key technologies.
-    * [Try it manually](https://github.com/dantenetwork/Routers-Evaluation-Demo)
+* The video show of on-chain algorithm prototypes are [Video Show](https://www.youtube.com/watch?v=N5Kjo1xW_X0).
 * **Router selection algorithm demo**
     * One of the key technologies.
     * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#router-selection)
 * **Message verification algorithm on-chain prototype**
    * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#message-verification)
+* **Routers evaluation algorithm demo**
+    * One of the key technologies.
+    * [Try it manually](https://github.com/dantenetwork/Routers-Evaluation-Demo)
 
 ## Demo Videos
 ### Smart contracts invocations between EVM chains and WASM chains
