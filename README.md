@@ -20,7 +20,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
     * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
 * **NFT published on Flow, and accessed from Ethereum(Opensea)**
     * This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
-    * [Try it manually](https://github.com/dantenetwork/cadence-contracts/tree/demo-video#examples)
+    * [Try it manually](https://github.com/dantenetwork/cadence-contracts/tree/demo-video#Examples)
     * [Video Show](#nft-published-on-flow-and-accessed-from-ethereumopensea)
 * **Cross-Chain SWAP based on Dante protocol stack**
     * This demo is about a cross-chain SWAP based on Dante protocol stack. You can exchange `DANT` on BNB with `DANT` on Rinkeby(Ethereum Testnet)
