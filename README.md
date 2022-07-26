@@ -14,7 +14,7 @@ We provide some demo videos to show how dApps can be improved with the help of D
 
 * **Smart contracts invocations between EVM chains and WASM chains**
     * This demo shows general message communication and contracts invocation between multi-chains.
-    * [Try it manually case one](https://github.com/xiyu1984/hackathon-2022-summer/tree/main/teams/05-Dante%20Network/docs/interoperation-demo)
+    * [Try it manually case one](https://github.com/dantenetwork/cross-chain-demo/tree/main)
     * [Try it manually case two](https://github.com/dantenetwork/cross-chain-demo/tree/demo-video)
     * [Video Show case one](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Prototype_Multichain_SmartContract_invocation%20.mp4)
     * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
