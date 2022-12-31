@@ -17,9 +17,10 @@ This demo shows general message communication and contracts invocation between m
  * [Try it manually case one](https://github.com/dantenetwork/cross-chain-demo/tree/v0.2.0)
  * [Video Show case one](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Prototype_Multichain_SmartContract_invocation%20.mp4)
  * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
-#### **Omniverse token worked on BNB, Moonbeam and PlatON**
- The omniverse token is a brand new token system beyond all blockchains.
- * [Video show case](https://dante-network.oss-cn-hangzhou.aliyuncs.com/omniverse%20token%20show.mp4)
+#### **The Omniverse DLT Protocol Stack**
+ * The omniverse token is a brand new token protocol compatible with current ERC20/Native token standards, whose legitimacy can be equivalently validated and synchronized  over all blockchains.
+   * [Omniverse Swap driven implemented as a Parachain of Polkadot](https://omniverse.oss-cn-hangzhou.aliyuncs.com/omniverse-swap.mp4)
+   * [Omniverse Token](https://dante-network.oss-cn-hangzhou.aliyuncs.com/omniverse%20token%20show.mp4)
 #### **NFT published on Flow, and accessed from Ethereum(Opensea)**
 This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
  * [Video Show-1](https://punstar.oss-cn-hangzhou.aliyuncs.com/PunStar%20Demo.mp4)
