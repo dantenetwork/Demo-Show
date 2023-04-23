@@ -16,11 +16,11 @@ We provide some demo videos to show how dApps can be improved with the help of D
 This demo shows general message communication and contracts invocation between multi-chains.
  * [Try it manually case one](https://github.com/dantenetwork/cross-chain-demo/tree/v0.2.0)
  * [Video Show case one](https://divina.s3.amazonaws.com/show+case/Prototype_Multichain_SmartContract_invocation.mp4)
- * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains)
+ * [Video Show case two](#smart-contracts-invocations-between-evm-chains-and-wasm-chains-demo)
 #### **NFT published on Flow, and accessed from Ethereum(Opensea)**
 This demo shows an NFT minted on Flow can be visited from other chains like Ethereum(Opensea) with the help of Dante protocol stack.
- * [Video Show-1](https://punstar.oss-cn-hangzhou.aliyuncs.com/PunStar%20Demo.mp4)
- * [Video Show-2](#nft-published-on-flow-and-accessed-from-ethereumopensea)
+ * [Video Show-1](https://divina.s3.amazonaws.com/show+case/PunStar+Demo.mp4)
+ * [Video Show-2](#nft-published-on-flow-and-accessed-from-ethereumopensea-demo)
 #### **Cross-Chain SWAP based on Dante protocol stack**
 This demo is about a cross-chain SWAP based on Dante protocol stack. You can exchange `DANT` on BNB with `DANT` on Rinkeby(Ethereum Testnet)
  * [Try it manually](https://demo-swap-theta.vercel.app/)
@@ -51,11 +51,11 @@ To let users more easily understand how the underlying mechanisms of Dante proto
  * [Try it manually](https://github.com/dantenetwork/Routers-Evaluation-Demo)
 
 ## Demo Videos
-### Smart contracts invocations between EVM chains and WASM chains
+### Smart contracts invocations between EVM chains and WASM chains demo
 [![Smart contracts invocations between EVM chains and WASM chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Smart%20contracts%20invocations%20between%20EVM%20chains%20and%20WASM%20chains.png)](https://divina.s3.amazonaws.com/show+case/basic+functions.mp4)
 
 
-### NFT published on Flow, and accessed from Ethereum(Opensea)
+### NFT published on Flow, and accessed from Ethereum(Opensea) demo
 [![NFT published on Flow, and accessed from Ethereum(Opensea)](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://divina.s3.amazonaws.com/show+case/NFT+on+Flow+extends+to+Opensea.mp4)
 
 
