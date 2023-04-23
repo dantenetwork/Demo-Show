@@ -12,10 +12,6 @@ Many interesting dApps can be developed based on Dante protocol stack. No matter
 
 We provide some demo videos to show how dApps can be improved with the help of Dante protocol stack.
 
-#### **The Omniverse DLT Protocol Stack**
- * The omniverse token is a brand new token protocol compatible with current ERC20/Native token standards, whose legitimacy can be equivalently validated and synchronized  over all blockchains.
-   * [Omniverse Swap implemented as a Parachain of Polkadot](https://omniverse.oss-cn-hangzhou.aliyuncs.com/omniverse-swap.mp4)
-   * [Omniverse Token](https://dante-network.oss-cn-hangzhou.aliyuncs.com/omniverse%20token%20show.mp4)
 #### **Smart contracts invocations between EVM chains and WASM chains**
 This demo shows general message communication and contracts invocation between multi-chains.
  * [Try it manually case one](https://github.com/dantenetwork/cross-chain-demo/tree/v0.2.0)
@@ -44,7 +40,7 @@ This is a very special demo. We know that Dante protocol stack provides `SQoS` m
 
 To let users more easily understand how the underlying mechanisms of Dante protocol stack work, we will provide some demos that visually demonstrate how the underlying algorithm works.
 
-* The video show of on-chain algorithm prototypes are [Video Show Link One](https://www.youtube.com/watch?v=N5Kjo1xW_X0), [Video Show Link Two](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Algorithm%20prototypes_Selection_Verification_Evaluation.mp4).
+* The video show of on-chain algorithm prototypes are [Video Show Link One](https://www.youtube.com/watch?v=N5Kjo1xW_X0), [Video Show Link Two](https://divina.s3.amazonaws.com/show+case/Algorithm+prototypes_Selection_Verification_Evaluation.mp4.mp4).
 #### **Router selection algorithm demo**
  * One of the key technologies.
  * [Try it manually](https://github.com/dantenetwork/algoritm-prototype#router-selection)
@@ -56,22 +52,22 @@ To let users more easily understand how the underlying mechanisms of Dante proto
 
 ## Demo Videos
 ### Smart contracts invocations between EVM chains and WASM chains
-[![Smart contracts invocations between EVM chains and WASM chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Smart%20contracts%20invocations%20between%20EVM%20chains%20and%20WASM%20chains.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/basic%20functions.mp4)
+[![Smart contracts invocations between EVM chains and WASM chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Smart%20contracts%20invocations%20between%20EVM%20chains%20and%20WASM%20chains.png)](https://divina.s3.amazonaws.com/show+case/basic+functions.mp4)
 
 
 ### NFT published on Flow, and accessed from Ethereum(Opensea)
-[![NFT published on Flow, and accessed from Ethereum(Opensea)](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/NFT%20on%20Flow%20extends%20to%20Opensea.mp4)
+[![NFT published on Flow, and accessed from Ethereum(Opensea)](https://github.com/dantenetwork/Demo-Show/blob/main/image/NFT%20published%20on%20Flow%2C%20and%20accessed%20from%20Ethereum.png)](https://divina.s3.amazonaws.com/show+case/NFT+on+Flow+extends+to+Opensea.mp4)
 
 
 ### Cross-chain SWAP
-[![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/cross%20chain%20swap.jpg)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Dante%20Swap.mp4)
+[![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/cross%20chain%20swap.jpg)](https://divina.s3.amazonaws.com/show+case/Dante+Swap.mp4)
 
 ### Cross-chain privacy communication
-[![Cross-chain privacy communication](https://github.com/dantenetwork/Demo-Show/blob/main/image/Cross-chain%20privacy%20communication.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Anonymous%20Demo.mp4)
+[![Cross-chain privacy communication](https://github.com/dantenetwork/Demo-Show/blob/main/image/Cross-chain%20privacy%20communication.png)](https://divina.s3.amazonaws.com/show+case/Anonymous+Demo.mp4)
 
 
 ### Extend storage on Arweave to be accessed from other chains
-[![Extend storage on Arweave to be accessed from other chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Extend%20storage%20on%20Arweave%20to%20be%20accessed%20from%20other%20chains.png)](https://dante-network.oss-cn-hangzhou.aliyuncs.com/Special%20router%20serves%20for%20storage%20on%20Arweave.mp4)
+[![Extend storage on Arweave to be accessed from other chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Extend%20storage%20on%20Arweave%20to%20be%20accessed%20from%20other%20chains.png)](https://divina.s3.amazonaws.com/show+case/Special+router+serves+for+storage+on+Arweave.mp4)
 
 
 ### Extend storage on Filecoin to be accessed from other chains
