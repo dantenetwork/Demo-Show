@@ -28,12 +28,12 @@ This demo is about a cross-chain SWAP based on Dante protocol stack. You can exc
 #### **Cross-chain privacy communication**
 This is a very special demo. We know that Dante protocol stack provides `SQoS` mechanisms to scheduling security and scalability in various scenarios. But `Privacy` is a particularly special `SQoS` item, which is not for the scheduling but makes users in web3 world be able to communicate with each other **anonymously** and **confidentiality** between different chains. For example, someone can hold an anonymous poll on any of the chains, or an anonymous secret auction. With the help of this technology, every user can join no matter which chain they are familiar with.
  * [Check source code here](https://github.com/dantenetwork/Privacy-Cross-Chain-Demo/tree/main/Anonymous). The related off-chain router is under upgrating.
- * [Video Show](#cross-chain-privacy-communication)
+ * [Video Show](#cross-chain-privacy-communication-demo)
 #### **Extend storage on Arweave to be accessed from other chains**
  * This demo shows the storage services can be extended to the whole web3 world. This is example to share special resources between different chains with the help of Dante protocol stack.
- * [Video Show](#extend-storage-on-arweave-to-be-accessed-from-other-chains)
+ * [Video Show](#extend-storage-on-arweave-to-be-accessed-from-other-chains-demo)
 #### **Extend storage on Filecoin to be accessed from other chains**
- * [Video Show](#extend-storage-on-filecoin-to-be-accessed-from-other-chains)
+ * [Video Show](#extend-storage-on-filecoin-to-be-accessed-from-other-chains-demo)
 
 
 ### Algorithms Demo
@@ -62,15 +62,15 @@ To let users more easily understand how the underlying mechanisms of Dante proto
 ### Cross-chain SWAP
 [![Cross-chain SWAP](https://github.com/dantenetwork/Demo-Show/blob/main/image/cross%20chain%20swap.jpg)](https://divina.s3.amazonaws.com/show+case/Dante+Swap.mp4)
 
-### Cross-chain privacy communication
+### Cross-chain privacy communication demo
 [![Cross-chain privacy communication](https://github.com/dantenetwork/Demo-Show/blob/main/image/Cross-chain%20privacy%20communication.png)](https://divina.s3.amazonaws.com/show+case/Anonymous+Demo.mp4)
 
 
-### Extend storage on Arweave to be accessed from other chains
+### Extend storage on Arweave to be accessed from other chains demo
 [![Extend storage on Arweave to be accessed from other chains](https://github.com/dantenetwork/Demo-Show/blob/main/image/Extend%20storage%20on%20Arweave%20to%20be%20accessed%20from%20other%20chains.png)](https://divina.s3.amazonaws.com/show+case/Special+router+serves+for+storage+on+Arweave.mp4)
 
 
-### Extend storage on Filecoin to be accessed from other chains
+### Extend storage on Filecoin to be accessed from other chains demo
 https://user-images.githubusercontent.com/83746881/173185179-5949a548-e44b-4e7c-a7b0-350672b98a85.mp4
 
 
